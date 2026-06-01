@@ -1,4 +1,4 @@
 # TYE-Net
-TYENet:Tri-stage YCrCb Enhancement Network for Low-Light Images
+TYENet: A Lightweight Three-Stage YCbCr-Based Framework for Low-Light Image Enhancement
 
 All code will be uploaded after the paper is accepted
